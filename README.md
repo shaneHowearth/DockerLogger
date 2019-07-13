@@ -6,3 +6,5 @@ with the small change that the docker names are highlighted in green.
 
 # Usage
 `./dockerLogger.sh`
+
+![Example output](example.png)
